@@ -1,0 +1,6 @@
+title: COS 486 Introduction to Brain Emulation
+description: Neural network models of brain function based on transcriptomic and connectomic maps
+baseurl: ""
+url: "https://brainemulation.github.io"
+
+markdown: kramdown
