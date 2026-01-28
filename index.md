@@ -21,9 +21,10 @@ Introduction to neural network models of brain function based on transcriptomic 
 
 ## Assessments
 
-  - Problem sets 20%
-  - two in-class exams 40%
-  - final exam 40%
+  - Problem sets (20%)
+  - Exam 1 (15%)
+  - Exam 2 (25%)
+  - Final exam (40%)
 
 ## Lectures
 
@@ -39,11 +40,10 @@ TBA\
 For students who can’t attend these hours, additional office hours are available by appointment.
 
 ## Online discussions
-You can ask and answer questions on the Ed site.\
-Ed activity counts as class participation and can enhance your grade.
+You can ask and answer questions on the [Ed](https://edstem.org/us/courses/94945/discussion) site.
 
 ## Homework assignments
-Homework assignments will be due on Fridays, and should be submitted on gradescope.
+Homework assignments will be due on some Fridays, and should be submitted on gradescope.
 
 ## Homework late policy
 There is a accumulated percentage drop on the overall points of 20% per day (eg. 2 days late => -40%). If you have reasons (eg. conference, illness, …) for why you cannot make a deadline, write us (all instructors) an E-mail before the deadline including a suggested new deadline. We will grant requests on an individual basis.
