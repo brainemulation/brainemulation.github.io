@@ -22,8 +22,7 @@ permalink: /schedule
 <tr><td>Lecture 9</td><td>Feb. 25</td><td>Motion Vision: circuit mechanisms</td></tr>
 <tr><td>Lecture 10</td><td>Mar. 2</td><td>Conductance-based modeling</td></tr>
 <tr><td>Lecture 11</td><td>Mar. 4</td><td>Compartmental modeling</td></tr>
-<tr><td></td><td>Mar. 9</td><td>RECESS</td></tr>
-<tr><td></td><td>Mar. 11</td><td>RECESS</td></tr>
+<tr class="recess-row"><td></td><td></td><td>Spring recess</td></tr>
 <tr><td>Lecture 12</td><td>Mar 16</td><td>Motion Vision: biophysics</td></tr>
 <tr><td>Lecture 13</td><td>Mar. 18</td><td>Convolution and convolutional nets.</td></tr>
 <tr><td>Lecture 14</td><td>Mar. 23</td><td>Normalization and lateral inhibition</td></tr>
