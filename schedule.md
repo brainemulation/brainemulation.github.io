@@ -16,8 +16,8 @@ permalink: /schedule
 <tr><td>Lecture 5</td><td>Feb. 9</td><td>Drosophila visual system: cell types, connectome, transcriptome</td></tr>
 <tr><td>Lecture 6</td><td>Feb. 11</td><td>Visual physiology: ON-OFF, sustained-transient, white noise analysis</td></tr>
 <tr class="pset-row"><td>PSet 3</td><td>Feb. 13</td><td></td></tr>
-<tr class="exam-row"><td>Exam 1</td><td>Feb. 16</td><td></td></tr>
-<tr><td>Lecture 7</td><td>Feb. 18</td><td>Feedforward and recurrent inhibitory motifs.</td></tr>
+<tr><td>Lecture 7</td><td>Feb. 16</td><td>Feedforward and recurrent inhibitory motifs.</td></tr>
+<tr class="exam-row"><td>Exam 1</td><td>Feb. 18</td><td></td></tr>
 <tr><td>Lecture 8</td><td>Feb. 23</td><td>Motion Vision: behavior and neural activity</td></tr>
 <tr><td>Lecture 9</td><td>Feb. 25</td><td>Motion Vision: circuit mechanisms</td></tr>
 <tr><td>Lecture 10</td><td>Mar. 2</td><td>Conductance-based modeling</td></tr>
