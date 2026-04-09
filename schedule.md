@@ -32,14 +32,13 @@ permalink: /schedule
 <tr><td>Lecture 15</td><td>Mar. 30</td><td>Cable equation solutions.</td></tr>
 <tr class="exam-row"><td>Exam 2</td><td>Apr. 1</td><td></td></tr>
 <tr><td>Lecture 16</td><td>Apr. 6</td><td>Normalization and lateral inhibition</td></tr>
-<tr><td>Lecture 17</td><td>Apr. 8</td><td>Whole brain emulation: motion detection</td></tr>
-<tr class="pset-row"><td>PSet 6</td><td>Apr. 11</td><td></td></tr>
+<tr><td>Lecture 17</td><td>Apr. 8</td><td>Global inhibition: subtractive and divisive models</td></tr>
 <tr><td>Lecture 18</td><td>Apr. 13</td><td>Form Vision: predicting receptive fields</td></tr>
-<tr><td>Lecture 19</td><td>Apr. 15</td><td>Form Vision: lateral interactions</td></tr>
-<tr class="pset-row"><td>PSet 7</td><td>Apr. 18</td><td></td></tr>
+<tr><td>Lecture 19</td><td>Apr. 15</td><td>Whole brain emulation: motion detection</td></tr>
+<tr class="pset-row"><td>PSet 6</td><td>Apr. 18</td><td></td></tr>
 <tr><td>Lecture 20</td><td>Apr. 20</td><td>Central complex: cell types and connectivity</td></tr>
 <tr><td>Lecture 21</td><td>Apr. 22</td><td>Navigation: ring attractor</td></tr>
-<tr class="pset-row"><td>PSet 8</td><td>Apr. 25</td><td></td></tr>
+<tr class="pset-row"><td>PSet 7</td><td>Apr. 25</td><td></td></tr>
 <!-- <tr><td>Lecture 22</td><td></td><td>Navigation: landmarks</td></tr> -->
 <!-- <tr><td>Lecture 23</td><td></td><td>Navigation: coordinate transformations</td></tr> -->
 <tr class="exam-row"><td>Final Exam</td><td>TBA</td><td></td></tr>
