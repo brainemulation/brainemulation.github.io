@@ -37,8 +37,7 @@ permalink: /schedule
 <tr><td>Lecture 19</td><td>Apr. 15</td><td>Convolution by single neuron biophysics</td></tr>
 <tr class="pset-row"><td>PSet 6</td><td>Apr. 21</td><td></td></tr>
 <tr><td>Lecture 20</td><td>Apr. 20</td><td>Navigation: ring attractor</td></tr>
-<tr><td>Lecture 21</td><td>Apr. 22</td><td>Whole brain emulation: motion detection</td></tr>
-<tr class="pset-row"><td>PSet 7</td><td>Apr. 29</td><td></td></tr>
+<tr><td>Lecture 21</td><td>Apr. 22</td><td>Ring of neurons model</td></tr>
 <!-- <tr><td>Lecture 22</td><td></td><td>Navigation: landmarks</td></tr> -->
 <!-- <tr><td>Lecture 23</td><td></td><td>Navigation: coordinate transformations</td></tr> -->
 <tr class="exam-row"><td>Final Exam</td><td>May 13</td><td></td></tr>
